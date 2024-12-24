@@ -4,4 +4,4 @@
 
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheIrishMan05&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheIrishMan05)](https://git.io/streak-stats)
